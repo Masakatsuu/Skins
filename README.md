@@ -17,7 +17,7 @@ I will update this list if there are new skins avaiable. Most of em are mashed s
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1172239794512875570/image.png?ex=6605b562&is=65f34062&hm=31c0092688fbad5a4fb025c6f6c6adfb405288b3dd78cbb3f830fe11696fff1b&)
 
 # [Vaxei 2023 Edit](https://cdn.discordapp.com/attachments/749686438341247147/1181353523892473866/Vaxei_2023_Edit.osk?ex=6601f334&is=65ef7e34&hm=0d4a9ee32fdc76a6ea914690c6d31d51e87fe0050521e382d8445eb50cacb4da&)
-![](https://cdn.discordapp.com/attachments/749686438341247147/1181353523892473866/Vaxei_2023_Edit.osk?ex=6601f334&is=65ef7e34&hm=0d4a9ee32fdc76a6ea914690c6d31d51e87fe0050521e382d8445eb50cacb4da&)
+![](https://cdn.discordapp.com/attachments/749686438341247147/1181353869905756180/screenshot059.jpg?ex=6601f387&is=65ef7e87&hm=c9b6fb8db7523d2c33e2fad6b1acb342b67768e9d73692dc2c3c9316d1507be8&)
 
 # [Syaro Kirima BTMC](https://cdn.discordapp.com/attachments/749686438341247147/1171991015075352677/-_Syaro_Kirima_BTMC_-.osk?ex=6604cdb0&is=65f258b0&hm=a90ad13bb88de0371294b2fe55f0e4d230a1aa47fb269dde044410d119301c84&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1171990973203632198/screenshot042.jpg?ex=6604cda6&is=65f258a6&hm=b7aadbd463182112e43e00e48724c35fd510895e2a5434b17cc5953913bdf563&)
