@@ -11,7 +11,7 @@ I will update this list if there are new skins avaiable. Most of em are mashed s
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1171984645106176010/screenshot039.jpg?ex=6604c7c1&is=65f252c1&hm=0d52a0e5d57dbedfd56ae3bd92794a25cb8fb6c3078c9e8d2f9eefac03e851c8&)
 
 # [Tekkito 2 Seoul (Rushio Edit)](https://cdn.discordapp.com/attachments/749686438341247147/1171985527348678738/tekkito2_Seoul_Rushio_Edit.osk?ex=6604c894&is=65f25394&hm=6f387c9cd3b66f60b76d7a7fbcec3dfd1bfd50a0ec64223d559f44c7dfc261c0&)
-![](https://cdn.discordapp.com/attachments/749686438341247147/1171984645106176010/screenshot039.jpg?ex=655eaac1&is=654c35c1&hm=2826d2fcfadd9ace76360e2cc4ad5dd2b0e06b45e2f1ca9f48c6a0fdea7bbd8d&)
+![](https://cdn.discordapp.com/attachments/749686438341247147/1171984645106176010/screenshot039.jpg?ex=6604c7c1&is=65f252c1&hm=0d52a0e5d57dbedfd56ae3bd92794a25cb8fb6c3078c9e8d2f9eefac03e851c8&)
 
 # [Cirno V1](https://cdn.discordapp.com/attachments/749686438341247147/1172240220008226826/Cirno-V1.0.osk?ex=6605b5c7&is=65f340c7&hm=3c4d3deeebc8e06875dce92d19b9c9b4ae84bde621a7144b63f0954f792b59f2&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1172239794512875570/image.png?ex=6605b562&is=65f34062&hm=31c0092688fbad5a4fb025c6f6c6adfb405288b3dd78cbb3f830fe11696fff1b&)
