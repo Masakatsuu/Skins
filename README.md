@@ -1,4 +1,4 @@
-![image](https://github.com/Masakatsuu/Skins/assets/150305791/a2589b47-7d1b-41bc-91a5-1f91ccd1cd7c)The following readme will serve to document all of Masakatsu's skins.
+![image](https://github.com/Masakatsuu/Skins/assets/150305791/8165a9a7-c259-486c-bcb5-2a4316a0404f)![image](https://github.com/Masakatsuu/Skins/assets/150305791/a2589b47-7d1b-41bc-91a5-1f91ccd1cd7c)The following readme will serve to document all of Masakatsu's skins.
 
 ## ORDER: 
 The order goes as followed: 
@@ -19,14 +19,14 @@ I will update this list if there are new skins avaiable. Most of em are mashed s
 # [Vaxei 2023 Edit](https://cdn.discordapp.com/attachments/749686438341247147/1181353523892473866/Vaxei_2023_Edit.osk?ex=6580c034&is=656e4b34&hm=432b58100f7e4b00e59b45e2bb6eca45e0815ab8d5109701e573ee9769ee61be&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1181353869905756180/screenshot059.jpg?ex=6580c087&is=656e4b87&hm=1a85bcbb6fa4880093a225d94ea99f8aa157a68cc8fd0f58566d92c2c3e9588c&)
 
-# [Syaro Kirima BTMC](https://cdn.discordapp.com/attachments/749686438341247147/1171991015075352677/-_Syaro_Kirima_BTMC_-.osk?ex=655eb0b0&is=654c3bb0&hm=d7a4afa1430b9c92e150b9ee1883a78fd725b0cca27cdd855feb95059a9c6fad&)
-![](https://cdn.discordapp.com/attachments/749686438341247147/1171990973203632198/screenshot042.jpg?ex=655eb0a6&is=654c3ba6&hm=70be90c92088e8c3f21e290cba13dfedd0b25c6e1165afb6ee9811291fa87eab&)
+# [Syaro Kirima BTMC](https://cdn.discordapp.com/attachments/749686438341247147/1171991015075352677/-_Syaro_Kirima_BTMC_-.osk?ex=6604cdb0&is=65f258b0&hm=a90ad13bb88de0371294b2fe55f0e4d230a1aa47fb269dde044410d119301c84&)
+![](https://cdn.discordapp.com/attachments/749686438341247147/1171990973203632198/screenshot042.jpg?ex=6604cda6&is=65f258a6&hm=b7aadbd463182112e43e00e48724c35fd510895e2a5434b17cc5953913bdf563&)
 
-# [NM Megumin](https://cdn.discordapp.com/attachments/749686438341247147/1171995101904519198/NMMegumin.osk?ex=655eb47e&is=654c3f7e&hm=ba76607cac18e4980119d67c6564236af6facf5d9261f8f9d24e4f50fd0c526b&)
-![](https://cdn.discordapp.com/attachments/749686438341247147/1171994977644068905/screenshot044.jpg?ex=655eb461&is=654c3f61&hm=9f5402bb8ab5606267ed7f8c8ce3850abc792c6e8c99d1c896ca8889fb9fcaad&)
+# [NM Megumin](https://cdn.discordapp.com/attachments/749686438341247147/1171995101904519198/NMMegumin.osk?ex=6604d17e&is=65f25c7e&hm=f1b2f7f805540297707c47128ef75eeec3b00887ca1a95db6bdb626c0e2033e8&)
+![](https://cdn.discordapp.com/attachments/749686438341247147/1171995101904519198/NMMegumin.osk?ex=6604d17e&is=65f25c7e&hm=f1b2f7f805540297707c47128ef75eeec3b00887ca1a95db6bdb626c0e2033e8&)
 
-# [Boom Edit](https://cdn.discordapp.com/attachments/749686438341247147/1171988817222303814/boom_edit.osk?ex=655eaea4&is=654c39a4&hm=6016e2fd1aadb6900b59d84c09bba54c399d23fbbddaa454bc32d3276b13b9f7&)
-![](https://media.discordapp.net/attachments/749686438341247147/1171987400013135983/screenshot041.jpg?ex=655ead52&is=654c3852&hm=0a4189b9ab4a24231802ed52f93368ba5ce1e13be11d0291df84d2eaa5408971&=&width=1609&height=905)
+# [Boom Edit](https://cdn.discordapp.com/attachments/749686438341247147/1171988817222303814/boom_edit.osk?ex=6604cba4&is=65f256a4&hm=e46f99048bb1a22020d0cb954971b2b8a58a39e21b8e2fa26d2a459be9004fb1&)
+![](https://cdn.discordapp.com/attachments/749686438341247147/1171987400013135983/screenshot041.jpg?ex=6604ca52&is=65f25552&hm=f522618fee8ed8b54337734cacc5901e6e34f0e6ba99423b4274bb8cbd8195f0&)
 
 # [Tekkito Koi Edit](https://cdn.discordapp.com/attachments/749686438341247147/1171986220591628410/Tekkito_Koi_Edit.osk?ex=659f45b9&is=658cd0b9&hm=c3411314e78997e56fb7d62f92373fc1ec7a5e7098d7a4eb43a83f5894388c0f&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1171986536972161065/screenshot040.jpg?ex=659f4604&is=658cd104&hm=175af89ddc84ecf62010f9ec7c54800dc59571c9bc4df6ac52e495a483446cd9&)
