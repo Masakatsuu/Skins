@@ -1,4 +1,4 @@
-)The following readme will serve to document all of Masakatsu's skins.
+The following readme will serve to document all of Masakatsu's skins.
 
 ## ORDER: 
 The order goes as followed: 
@@ -7,10 +7,10 @@ The order goes as followed:
 ## NOTICE:
 I will update this list if there are new skins avaiable. Most of em are mashed skins so please show some love to the original owners :).
 
-# [Tekkito 2 Seoul (Edit)](https://cdn.discordapp.com/attachments/749686438341247147/1171985527013118114/tekkito2_Seoul_Edit.osk?ex=655eab94&is=654c3694&hm=1188def2e08f4d26d1bfcecbc759afbe8ed968af8cc6de935054826b892f901a&)
-![](https://cdn.discordapp.com/attachments/749686438341247147/1171980321231736832/screenshot033.jpg?ex=655ea6ba&is=654c31ba&hm=71de44bb4015a217da21960aedf4d6665aaead3dad9856f4b3d8219a9ae624a7&)
+# [Tekkito 2 Seoul (Edit)](https://cdn.discordapp.com/attachments/749686438341247147/1171985527013118114/tekkito2_Seoul_Edit.osk?ex=6604c894&is=65f25394&hm=6c4f96197487a7c5ba9c142a7240c126f4b2424e03d315a0088f64aaa7ea9bee&)
+![](https://cdn.discordapp.com/attachments/749686438341247147/1171984645106176010/screenshot039.jpg?ex=6604c7c1&is=65f252c1&hm=0d52a0e5d57dbedfd56ae3bd92794a25cb8fb6c3078c9e8d2f9eefac03e851c8&)
 
-# [Tekkito 2 Seoul (Rushio Edit)](https://cdn.discordapp.com/attachments/749686438341247147/1171985527348678738/tekkito2_Seoul_Rushio_Edit.osk?ex=655eab94&is=654c3694&hm=c311e60cb6804a763d3e247cec4a47c933b3eb133736194e409e36d328ec746c&)
+# [Tekkito 2 Seoul (Rushio Edit)](https://cdn.discordapp.com/attachments/749686438341247147/1171985527348678738/tekkito2_Seoul_Rushio_Edit.osk?ex=6604c894&is=65f25394&hm=6f387c9cd3b66f60b76d7a7fbcec3dfd1bfd50a0ec64223d559f44c7dfc261c0&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1171984645106176010/screenshot039.jpg?ex=655eaac1&is=654c35c1&hm=2826d2fcfadd9ace76360e2cc4ad5dd2b0e06b45e2f1ca9f48c6a0fdea7bbd8d&)
 
 # [Cirno V1](https://cdn.discordapp.com/attachments/749686438341247147/1172240220008226826/Cirno-V1.0.osk?ex=6605b5c7&is=65f340c7&hm=3c4d3deeebc8e06875dce92d19b9c9b4ae84bde621a7144b63f0954f792b59f2&)
@@ -28,8 +28,8 @@ I will update this list if there are new skins avaiable. Most of em are mashed s
 # [Boom Edit](https://cdn.discordapp.com/attachments/749686438341247147/1171988817222303814/boom_edit.osk?ex=6604cba4&is=65f256a4&hm=e46f99048bb1a22020d0cb954971b2b8a58a39e21b8e2fa26d2a459be9004fb1&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1171987400013135983/screenshot041.jpg?ex=6604ca52&is=65f25552&hm=f522618fee8ed8b54337734cacc5901e6e34f0e6ba99423b4274bb8cbd8195f0&)
 
-# [Tekkito Koi Edit](https://cdn.discordapp.com/attachments/749686438341247147/1171986220591628410/Tekkito_Koi_Edit.osk?ex=659f45b9&is=658cd0b9&hm=c3411314e78997e56fb7d62f92373fc1ec7a5e7098d7a4eb43a83f5894388c0f&)
-![](https://cdn.discordapp.com/attachments/749686438341247147/1171986536972161065/screenshot040.jpg?ex=659f4604&is=658cd104&hm=175af89ddc84ecf62010f9ec7c54800dc59571c9bc4df6ac52e495a483446cd9&)
+# [Tekkito Koi Edit](https://cdn.discordapp.com/attachments/749686438341247147/1171986220591628410/Tekkito_Koi_Edit.osk?ex=6604c939&is=65f25439&hm=27fd439c20b8c7e203aa0ca71f86b9fa165480cf8f8481de796adc49fc612df6&)
+![](https://cdn.discordapp.com/attachments/749686438341247147/1171986536972161065/screenshot040.jpg?ex=6604c984&is=65f25484&hm=5e357e97c4cbdebefde436c1be71558cb1bd921a95718ef9412ae1453cfbc05b&)
 
 # [Monko Edit](https://cdn.discordapp.com/attachments/749686438341247147/1172243590542540872/MonkoEdit.osk?ex=6605b8eb&is=65f343eb&hm=3163be263cf723b5347e66786e3e7f705bed665629bfd96ce4e0d0caf3be5db6&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1172243552831541328/screenshot048.jpg?ex=6605b8e2&is=65f343e2&hm=eff8ec733880dea98cd6ab6a27d64f4171cb7ebb307fa63542fbdb0e1b97ac0c&)
