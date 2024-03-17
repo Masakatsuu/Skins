@@ -7,6 +7,9 @@ The order goes as followed:
 ## NOTICE:
 I will update this list if there are new skins avaiable. Most of em are mashed skins so please show some love to the original owners :).
 
+# [Frieren Intercambing Edit](https://cdn.discordapp.com/attachments/749686438341247147/1218856661607780382/Frieren_intercambing_edit.osk?ex=66092fb9&is=65f6bab9&hm=c08903a82b7a1cfb054f766c8100a281ba299befe017ae9baa9bf599a9800e4f&)
+![](https://media.discordapp.net/attachments/749686438341247147/1218856426907373568/screenshot161.jpg?ex=66092f81&is=65f6ba81&hm=41acf82993d3bac369d72b5d59c1e353570e83ca4e9f584ac4ef87e2de94183f&=&format=webp&width=1609&height=905)
+
 # [Tekkito 2 Seoul (Edit)](https://cdn.discordapp.com/attachments/749686438341247147/1171985527013118114/tekkito2_Seoul_Edit.osk?ex=6604c894&is=65f25394&hm=6c4f96197487a7c5ba9c142a7240c126f4b2424e03d315a0088f64aaa7ea9bee&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1171984645106176010/screenshot039.jpg?ex=6604c7c1&is=65f252c1&hm=0d52a0e5d57dbedfd56ae3bd92794a25cb8fb6c3078c9e8d2f9eefac03e851c8&)
 
