@@ -37,8 +37,8 @@ I will update this list if there are new skins avaiable. Most of em are mashed s
 # [Tekkito Koi Edit](https://cdn.discordapp.com/attachments/749686438341247147/1171986220591628410/Tekkito_Koi_Edit.osk?ex=6604c939&is=65f25439&hm=27fd439c20b8c7e203aa0ca71f86b9fa165480cf8f8481de796adc49fc612df6&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1171986536972161065/screenshot040.jpg?ex=6604c984&is=65f25484&hm=5e357e97c4cbdebefde436c1be71558cb1bd921a95718ef9412ae1453cfbc05b&)
 
-# [Monko Edit](https://cdn.discordapp.com/attachments/749686438341247147/1172243590542540872/MonkoEdit.osk?ex=6605b8eb&is=65f343eb&hm=3163be263cf723b5347e66786e3e7f705bed665629bfd96ce4e0d0caf3be5db6&)
-![](https://cdn.discordapp.com/attachments/749686438341247147/1172243552831541328/screenshot048.jpg?ex=6605b8e2&is=65f343e2&hm=eff8ec733880dea98cd6ab6a27d64f4171cb7ebb307fa63542fbdb0e1b97ac0c&)
+# [Monko Edit](https://cdn.discordapp.com/attachments/749686438341247147/1172243590542540872/MonkoEdit.osk?ex=66182deb&is=6605b8eb&hm=9b91a565ce856425ef72243707c0258c208c1933a68a156cb3d0888f6080a221&)
+![](https://cdn.discordapp.com/attachments/749686438341247147/1172243552831541328/screenshot048.jpg?ex=66182de2&is=6605b8e2&hm=f7f88fc438f7b719f286e7885af73d5d2f4e9d610743852d73dcb76334130a2d&)
 
 # [HT Walnut V1](https://cdn.discordapp.com/attachments/749686438341247147/1172237915519197236/-_HT_Walnut_1.0_clrs.osk?ex=661828a2&is=6605b3a2&hm=5a21e9492a724d488218ead82b011ab026b7b5e776fd58590a59598c1ff524a0&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1172237975535489055/image.png?ex=661828b0&is=6605b3b0&hm=a17dd0f2b331ac9accb26e1f95b47292950ce8e875b1bc97a9bb24ecab86ec1d&)
