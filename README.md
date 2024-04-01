@@ -13,11 +13,11 @@ I will update this list if there are new skins avaiable. Most of em are mashed s
 # [Eumelanin&Glasses[BY] Edit](https://cdn.discordapp.com/attachments/749686438341247147/1219008506519355432/-_EumelaninGlassesBY_Edit-.osk?ex=6609bd24&is=65f74824&hm=6dab760b8717cf0308e8ffcefd5dd8395c9a1ea6457e0114e748f62f41eeb7c4&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1218857578595876904/screenshot163.jpg?ex=66093094&is=65f6bb94&hm=c178be97a45a8e3a7f0c81084c1be21f075f921559217e2be005cf58f060f824&)
 
-# [Tekkito 2 Seoul (Edit)](https://cdn.discordapp.com/attachments/749686438341247147/1171985527013118114/tekkito2_Seoul_Edit.osk?ex=6604c894&is=65f25394&hm=6c4f96197487a7c5ba9c142a7240c126f4b2424e03d315a0088f64aaa7ea9bee&)
-![](https://cdn.discordapp.com/attachments/749686438341247147/1171984645106176010/screenshot039.jpg?ex=6604c7c1&is=65f252c1&hm=0d52a0e5d57dbedfd56ae3bd92794a25cb8fb6c3078c9e8d2f9eefac03e851c8&)
+# [Tekkito 2 Seoul (Edit)](https://cdn.discordapp.com/attachments/749686438341247147/1171985527013118114/tekkito2_Seoul_Edit.osk?ex=66173d94&is=6604c894&hm=2371c64a7a49b8fbd07416a65914991cea345c9980fa01e775eb80f3c57f55df&)
+![](https://cdn.discordapp.com/attachments/749686438341247147/1171980321231736832/screenshot033.jpg?ex=661738ba&is=6604c3ba&hm=bad8033c6d8cf251886b580ac2d267205b4a938d25ef52997894d03aabc5ce81&)
 
-# [Tekkito 2 Seoul (Rushio Edit)](https://cdn.discordapp.com/attachments/749686438341247147/1171985527348678738/tekkito2_Seoul_Rushio_Edit.osk?ex=6604c894&is=65f25394&hm=6f387c9cd3b66f60b76d7a7fbcec3dfd1bfd50a0ec64223d559f44c7dfc261c0&)
-![](https://cdn.discordapp.com/attachments/749686438341247147/1171984645106176010/screenshot039.jpg?ex=6604c7c1&is=65f252c1&hm=0d52a0e5d57dbedfd56ae3bd92794a25cb8fb6c3078c9e8d2f9eefac03e851c8&)
+# [Tekkito 2 Seoul (Rushio Edit)](https://cdn.discordapp.com/attachments/749686438341247147/1171985527348678738/tekkito2_Seoul_Rushio_Edit.osk?ex=66173d94&is=6604c894&hm=1baffbd721369c83b317466410fd1df2da65abc1a77c5db41dc0daa7e744d6c9&)
+![](https://cdn.discordapp.com/attachments/749686438341247147/1171984645106176010/screenshot039.jpg?ex=66173cc1&is=6604c7c1&hm=bc55adbc3fae473192aea6d34a3e740e6f7287f9581ec7e15ed1d23e7f97b51f&)
 
 # [Cirno V1](https://cdn.discordapp.com/attachments/749686438341247147/1190251801614745621/Cirno-V1.0.osk?ex=661917df&is=6606a2df&hm=9aa96775b5c17f0d2a4c7732c71538d10f06f88c8ce3f0dea52e87e2eac01c45&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1190251721922969681/screenshot078.jpg?ex=661917cc&is=6606a2cc&hm=7c5208557e0f2a41f5b67ebd26a456c50bedda85a6d27b172376ebbdd575483b&)
