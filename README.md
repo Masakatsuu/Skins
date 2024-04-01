@@ -28,8 +28,8 @@ I will update this list if there are new skins avaiable. Most of em are mashed s
 # [Syaro Kirima BTMC](https://cdn.discordapp.com/attachments/749686438341247147/1171991015075352677/-_Syaro_Kirima_BTMC_-.osk?ex=6604cdb0&is=65f258b0&hm=a90ad13bb88de0371294b2fe55f0e4d230a1aa47fb269dde044410d119301c84&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1171990973203632198/screenshot042.jpg?ex=6604cda6&is=65f258a6&hm=b7aadbd463182112e43e00e48724c35fd510895e2a5434b17cc5953913bdf563&)
 
-# [NM Megumin](https://cdn.discordapp.com/attachments/749686438341247147/1171995101904519198/NMMegumin.osk?ex=6604d17e&is=65f25c7e&hm=f1b2f7f805540297707c47128ef75eeec3b00887ca1a95db6bdb626c0e2033e8&)
-![](https://cdn.discordapp.com/attachments/749686438341247147/1171994977644068905/screenshot044.jpg?ex=6604d161&is=65f25c61&hm=8e08ddfdb1e09e2d725831d5bfe525282be0675487122546700b91ba56975aed&)
+# [NM Megumin](https://cdn.discordapp.com/attachments/749686438341247147/1171995101904519198/NMMegumin.osk?ex=6617467e&is=6604d17e&hm=e35870328f457c2d812bd186dc92b52a0eb80f7a4a9088d4abc1d7542186246f&)
+![](https://cdn.discordapp.com/attachments/749686438341247147/1171994977644068905/screenshot044.jpg?ex=66174661&is=6604d161&hm=8dd89b372c46ddaffd0e1b9c0443d41b8b5dd98be7440246f05baaae2fc48d91&)
 
 # [Boom Edit](https://cdn.discordapp.com/attachments/749686438341247147/1171988817222303814/boom_edit.osk?ex=6604cba4&is=65f256a4&hm=e46f99048bb1a22020d0cb954971b2b8a58a39e21b8e2fa26d2a459be9004fb1&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1171987400013135983/screenshot041.jpg?ex=6604ca52&is=65f25552&hm=f522618fee8ed8b54337734cacc5901e6e34f0e6ba99423b4274bb8cbd8195f0&)
@@ -40,5 +40,5 @@ I will update this list if there are new skins avaiable. Most of em are mashed s
 # [Monko Edit](https://cdn.discordapp.com/attachments/749686438341247147/1172243590542540872/MonkoEdit.osk?ex=6605b8eb&is=65f343eb&hm=3163be263cf723b5347e66786e3e7f705bed665629bfd96ce4e0d0caf3be5db6&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1172243552831541328/screenshot048.jpg?ex=6605b8e2&is=65f343e2&hm=eff8ec733880dea98cd6ab6a27d64f4171cb7ebb307fa63542fbdb0e1b97ac0c&)
 
-# [HT Walnut V1](https://cdn.discordapp.com/attachments/749686438341247147/1172237915519197236/-_HT_Walnut_1.0_clrs.osk?ex=6605b3a2&is=65f33ea2&hm=b3464c2a403e8dfd6acff529b650c98e8c10a524c605da5ae1c1aeba368d886b&)
-![](https://cdn.discordapp.com/attachments/749686438341247147/1172237975535489055/image.png?ex=6605b3b0&is=65f33eb0&hm=e071af03d8188f9bb1ab4ae7b36d3c4c17f749e0bef56da7b4472c88eed51673&)
+# [HT Walnut V1](https://cdn.discordapp.com/attachments/749686438341247147/1172237915519197236/-_HT_Walnut_1.0_clrs.osk?ex=661828a2&is=6605b3a2&hm=5a21e9492a724d488218ead82b011ab026b7b5e776fd58590a59598c1ff524a0&)
+![](https://cdn.discordapp.com/attachments/749686438341247147/1172237975535489055/image.png?ex=661828b0&is=6605b3b0&hm=a17dd0f2b331ac9accb26e1f95b47292950ce8e875b1bc97a9bb24ecab86ec1d&)
