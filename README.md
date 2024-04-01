@@ -7,8 +7,8 @@ The order goes as followed:
 ## NOTICE:
 I will update this list if there are new skins avaiable. Most of em are mashed skins so please show some love to the original owners :).
 
-# [Frieren Intercambing Edit](https://cdn.discordapp.com/attachments/749686438341247147/1218856661607780382/Frieren_intercambing_edit.osk?ex=66092fb9&is=65f6bab9&hm=c08903a82b7a1cfb054f766c8100a281ba299befe017ae9baa9bf599a9800e4f&)
-![](https://media.discordapp.net/attachments/749686438341247147/1218856426907373568/screenshot161.jpg?ex=66092f81&is=65f6ba81&hm=41acf82993d3bac369d72b5d59c1e353570e83ca4e9f584ac4ef87e2de94183f&=&format=webp&width=1609&height=905)
+# [Frieren Intercambing Edit](https://cdn.discordapp.com/attachments/749686438341247147/1218856661607780382/Frieren_intercambing_edit.osk?ex=661ba4b9&is=66092fb9&hm=87fc8bbe5a2e9ad506d75bf022af04a2873a8a58a2c6a25a13a6f1f30ebf38e0&)
+![](https://cdn.discordapp.com/attachments/749686438341247147/1218856426907373568/screenshot161.jpg?ex=661ba481&is=66092f81&hm=713ad47e1bd9d892b6352cec23d78fd24c2605970b17d974d6e7671088e6a228&)
 
 # [Eumelanin&Glasses[BY] Edit](https://cdn.discordapp.com/attachments/749686438341247147/1219008506519355432/-_EumelaninGlassesBY_Edit-.osk?ex=6609bd24&is=65f74824&hm=6dab760b8717cf0308e8ffcefd5dd8395c9a1ea6457e0114e748f62f41eeb7c4&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1218857578595876904/screenshot163.jpg?ex=66093094&is=65f6bb94&hm=c178be97a45a8e3a7f0c81084c1be21f075f921559217e2be005cf58f060f824&)
