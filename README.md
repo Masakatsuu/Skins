@@ -31,8 +31,8 @@ I will update this list if there are new skins avaiable. Most of em are mashed s
 # [NM Megumin](https://cdn.discordapp.com/attachments/749686438341247147/1171995101904519198/NMMegumin.osk?ex=6617467e&is=6604d17e&hm=e35870328f457c2d812bd186dc92b52a0eb80f7a4a9088d4abc1d7542186246f&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1171994977644068905/screenshot044.jpg?ex=66174661&is=6604d161&hm=8dd89b372c46ddaffd0e1b9c0443d41b8b5dd98be7440246f05baaae2fc48d91&)
 
-# [Boom Edit](https://cdn.discordapp.com/attachments/749686438341247147/1171988817222303814/boom_edit.osk?ex=6604cba4&is=65f256a4&hm=e46f99048bb1a22020d0cb954971b2b8a58a39e21b8e2fa26d2a459be9004fb1&)
-![](https://cdn.discordapp.com/attachments/749686438341247147/1171987400013135983/screenshot041.jpg?ex=6604ca52&is=65f25552&hm=f522618fee8ed8b54337734cacc5901e6e34f0e6ba99423b4274bb8cbd8195f0&)
+# [Boom Edit](https://cdn.discordapp.com/attachments/749686438341247147/1171988817222303814/boom_edit.osk?ex=661740a4&is=6604cba4&hm=e533720aec83c945b383291c3b5d1eb66318f44cd3ce2fc173eed3f817a863e0&)
+![](https://cdn.discordapp.com/attachments/749686438341247147/1171987400013135983/screenshot041.jpg?ex=66173f52&is=6604ca52&hm=05871a3caddd2c10d60b083ebbdfec9377ce805d2927bd7593c250567e0cf222&)
 
 # [Tekkito Koi Edit](https://cdn.discordapp.com/attachments/749686438341247147/1171986220591628410/Tekkito_Koi_Edit.osk?ex=6604c939&is=65f25439&hm=27fd439c20b8c7e203aa0ca71f86b9fa165480cf8f8481de796adc49fc612df6&)
 ![](https://cdn.discordapp.com/attachments/749686438341247147/1171986536972161065/screenshot040.jpg?ex=6604c984&is=65f25484&hm=5e357e97c4cbdebefde436c1be71558cb1bd921a95718ef9412ae1453cfbc05b&)
